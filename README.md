@@ -1,2 +1,2 @@
-# C-project
-C project
+C语言学习代码
+C-language code
